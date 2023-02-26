@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gather](https://github.com/Szazlo/Gather-CS50)
 
-- 🌱 I’m currently learning **ReactJS, Java, Network Computing, Algorithms, Usability Engineering**
+- 🌱 I’m currently learning **ReactJS, Java, Network Computing, MongoDB, Django*
 
 - 👯 I’m looking to collaborate on [Gather](https://github.com/Szazlo/Gather-CS50)
 
