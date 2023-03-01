@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/szazlo" target="blank"><img src="https://img.shields.io/twitter/follow/szazlo?logo=twitter&style=for-the-badge" alt="szazlo" /></a> </p>
 
-- 🔭 I’m currently working on [Gather](https://github.com/Szazlo/Gather-CS50)
+- 🔭 I’m currently working on [Cavson POS](https://github.com/MariooC14/CavsonPOS)
 
 - 🌱 I’m currently learning **ReactJS, Java, Network Computing, MongoDB, Django**
 
