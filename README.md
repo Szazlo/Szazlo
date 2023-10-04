@@ -15,15 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.davidwilson.eu/](https://www.davidwilson.eu/)
 
-- 📝 I regularly write articles on [https://www.davidwilson.eu/](https://www.davidwilson.eu/)
-
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **davidwilson0403@gmail.com**
 
 - 📄 Know about my experiences [https://www.davidwilson.eu/](https://www.davidwilson.eu/)
-
-- ⚡ Fun fact **I think I am good at programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
