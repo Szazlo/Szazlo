@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Cavson POS](https://github.com/MariooC14/CavsonPOS)
 
-- 🌱 I’m currently learning **ReactJS, Java, Network Computing, MongoDB, Django**
+- 🌱 I’m currently learning **ReactJS, Networking, Django**
 
 - 👯 I’m looking to collaborate on [Gather](https://github.com/Szazlo/Gather-CS50)
 
