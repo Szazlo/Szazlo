@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **ReactJS, Networking, Django**
 
-- 👯 I’m looking to collaborate on [Gather](https://github.com/Szazlo/Gather-CS50)
-
 - 🤝 I’m looking for help with [Gather](https://github.com/Szazlo/Gather-CS50)
 
 - 👨‍💻 All of my projects are available at [https://www.davidwilson.eu/](https://www.davidwilson.eu/)
