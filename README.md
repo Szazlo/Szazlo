@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with [Gather](https://github.com/Szazlo/Gather-CS50)
 
-- 👨‍💻 All of my projects are available at [https://www.davidwilson.eu/](https://www.davidwilson.eu/)
+- 👨‍💻 All of my projects are available at [https://www.davidwilson.dev/](https://www.davidwilson.dev/)
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **davidwilson0403@gmail.com**
 
-- 📄 Know about my experiences [https://www.davidwilson.eu/](https://www.davidwilson.eu/)
+- 📄 Know about my experiences [https://www.davidwilson.dev/](https://www.davidwilson.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
