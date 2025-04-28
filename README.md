@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **davidwilson0403@gmail.com**
 
-- 📄 Know about my experiences [https://www.davidwilson.dev/](https://davidwilson.dev/)
+- 📄 Know about my experiences [https://www.davidwilson.dev/](https://davidwilson.dev/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
