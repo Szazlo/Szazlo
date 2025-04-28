@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/szazlo" target="blank"><img src="https://img.shields.io/twitter/follow/szazlo?logo=twitter&style=for-the-badge" alt="szazlo" /></a> </p>
 
-- 🔭 I’m currently working on Forklore
+- 🔭 I’m currently working on [Seraph](https://github.com/MariooC14/Seraph)
 
 - 👨‍💻 All of my projects are available at [https://www.davidwilson.dev/](https://www.davidwilson.dev/)
 
