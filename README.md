@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Final year Computer Science student @ UCC</h3>
+<h3 align="center">Software Engineer and Gradute of Computer Science @ UCC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szazlo&label=Profile%20views&color=0e75b6&style=flat" alt="szazlo" /> </p>
 
