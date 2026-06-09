@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szazlo&label=Profile%20views&color=0e75b6&style=flat" alt="szazlo" /> </p>
 
-<a align="left" href="https://linkedin.com/in/szazlo" target="blank"><img align="center" src="https://kmitevski.com/wp-content/uploads/2019/12/LinkedInConnectButton.jpg" alt="szazlo" height="20" width="60" /></a>
+<a align="left" href="https://linkedin.com/in/szazlo" target="blank"><img align="center" src="https://kmitevski.com/wp-content/uploads/2019/12/LinkedInConnectButton.jpg" alt="szazlo" height="30"/></a>
 
 - 🔭 I’m currently working on [Seraph](https://github.com/MariooC14/Seraph)
 
