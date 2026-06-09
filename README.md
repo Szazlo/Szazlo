@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Software Engineer and Gradute of Computer Science @ UCC</h3>
+<h3 align="center">Software Engineer | BSc Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szazlo&label=Profile%20views&color=0e75b6&style=flat" alt="szazlo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/szazlo" target="blank"><img src="https://img.shields.io/twitter/follow/szazlo?logo=twitter&style=for-the-badge" alt="szazlo" /></a> </p>
+<a align="left" href="https://linkedin.com/in/szazlo" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG30.png" alt="szazlo" height="30" width="90" /></a>
 
 - 🔭 I’m currently working on [Seraph](https://github.com/MariooC14/Seraph)
 
